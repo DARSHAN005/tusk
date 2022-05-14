@@ -2,7 +2,7 @@ package Assignments;
 
 public class AnimalObject
 {
-	String name;
+	dfaghaahhahahahahhahahahhaha;
 	String Sound;
 	int NoOfLegs;
 	public AnimalObject(String name, String sound, int noOfLegs) {
